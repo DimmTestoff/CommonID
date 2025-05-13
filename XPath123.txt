@@ -1,6 +1,6 @@
 1)
 //span[contains(text(),'SQL')]
-//span[starts-with(text(),'Í')]
+//span[starts-with(text(),'SQL_changes_text')]
 
 2)ancystor
 //button/span[.="Export"]
